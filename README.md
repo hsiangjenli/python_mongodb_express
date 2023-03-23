@@ -4,7 +4,7 @@ In this tutorial, you will learn how to set up `Python`, `MongoDB`, and `Mongo-e
 # **Prerequisite**
 Before starting, ensure that you have installed **docker desktop** version above `v4.15.0`. Also, clone or download the repository for this tutorial.
 ```shell
-pass
+git clone https://github.com/hsiangjenli/python_mongodb_express.git
 ```
 # **Step-by-Step**
 To set up the development environment, follow these steps:
