@@ -1,5 +1,5 @@
 # **Python + MongoDB**
-In this tutorial, you will learn how to set up `Python`, `MongoDB`, and `Mongo-express` in a docker-desktop development environment. 
+In this tutorial, you will learn how to set up `Python`, `MongoDB`, and `Mongo-express` in the docker-desktop development environment. 
 
 # **Prerequisite**
 Before starting, ensure that you have installed **docker desktop** version above `v4.15.0`. Also, clone or download the repository for this tutorial.
